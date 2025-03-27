@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    border-bottom: 2px solid #e9ecef;
+}
+
+.blog-post {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.blog-post h4 {
+    font-weight: bold;
+}
+
+.blog-post i {
+    margin-right: 8px;
+}
+
+.text-muted {
+    font-size: 14px;
+}
